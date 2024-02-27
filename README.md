@@ -1,4 +1,4 @@
-# EZpill
+# <img src = 'https://private-user-images.githubusercontent.com/100944467/308006862-0e5aee4d-be79-4f65-9fa0-1d80c9d524ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5OTg0NzMsIm5iZiI6MTcwODk5ODE3MywicGF0aCI6Ii8xMDA5NDQ0NjcvMzA4MDA2ODYyLTBlNWFlZTRkLWJlNzktNGY2NS05ZmEwLTFkODBjOWQ1MjRmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QwMTQyNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZWFiODNmMGQ3ZDI0NzJmNjUxNTZlZGU5MDI5Yjc1MjM2YWYxMTBlZDIwYjM5OGY4MDE0NGU5ZTdlZWUxZGYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qQGfaQX-NsZSKQUOjN1W0sHJLGscDL7xHIN1hAF_3j4' width = '50px'> EZpill 
 ---
 ### EZpill은 영양제를 사용자에 맞게 조합하고, 약국에서 주는 약봉지 처럼 소분합니다.
 ### 또한 사용자가 쉽게 영양제를 섭취할 수 있도록 정기배송 해주는 서비스입니다.
@@ -24,11 +24,29 @@
 ## 1. 서비스 소개
 
 ### 💡 기획 배경
- ### - 잠재 유저 인터뷰
- 영양제에 관심이 있는 사람 중 영양제를 복용중인 인원 6명, 복용중이지 않은 인원 4명을 대상으로 정성조사를 진행하였다.
+
+
+
+  
+
+- 코로나 이후 증가하는 영양제 시장과 관심<br>
+  🖇️[관련기사](https://www.sisaweek.com/news/articleView.html?idxno=203609)
+- 영양제에 대해 잘 모르고 남용하거나 복용하지 않거나, 부작용이 있는 영양제를 섭취하는 경우가 아주 많음<br>
+  🖇️[관련기사](https://cbiz.chosun.com/svc/bulletin/bulletin_art.html?contid=2022090200348)
+- 영양제(건강기능식품)에 대한 가격적인 부담<br>
+  🖇️[관련기사](https://www.thinkfood.co.kr/news/articleView.html?idxno=68778)
+- 영양제에 대한 임산부들의 높은 관심과 맞춤형 영양제에 대한 기대감<br>
+  🖇️[관련기사](https://m.medicaltimes.com/News/NewsView.html?ID=43830)
+- 임산부의 부족한 영양 섭취<br>
+  🖇️[관련기사](https://mobile.newsis.com/view.html?ar_id=NISX20170118_0014648382)
+
+  <br>
+
+   ### 🙋🏼 잠재 유저 인터뷰
+ 영양제에 관심이 있는 사람 중 영양제를 복용중인 인원 6명, 복용중이지 않은 인원 4명을 대상으로 정성조사를 진행했습니다.
 <details>
-  <summary>첫번째토글</summary>
-  <h3> 복용중인 인원</h3>
+  
+  <h3> <summary> 복용중인 인원 </summary> </h3>
   <details>
   <summary>질문 리스트</summary>
 1. 영양제를 복용하기 시작한 계기가 무엇인가요?
@@ -48,22 +66,7 @@
 8. 준비하고 있는 서비스가 출시가 된다면 사용할 의향이 있으신가요?
 </details>
 
-
-  
 </details>
-- 코로나 이후 증가하는 영양제 시장과 관심<br>
-  🖇️[관련기사](https://www.sisaweek.com/news/articleView.html?idxno=203609)
-- 영양제에 대해 잘 모르고 남용하거나 복용하지 않거나, 부작용이 있는 영양제를 섭취하는 경우가 아주 많음<br>
-  🖇️[관련기사](https://cbiz.chosun.com/svc/bulletin/bulletin_art.html?contid=2022090200348)
-- 영양제(건강기능식품)에 대한 가격적인 부담<br>
-  🖇️[관련기사](https://www.thinkfood.co.kr/news/articleView.html?idxno=68778)
-- 영양제에 대한 임산부들의 높은 관심과 맞춤형 영양제에 대한 기대감<br>
-  🖇️[관련기사](https://m.medicaltimes.com/News/NewsView.html?ID=43830)
-- 임산부의 부족한 영양 섭취<br>
-  🖇️[관련기사](https://mobile.newsis.com/view.html?ar_id=NISX20170118_0014648382)
-
-  <br>
-
 ### 🎯 목적 및 필요성
 
 
