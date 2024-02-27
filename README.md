@@ -1,8 +1,8 @@
 # <img src = 'https://private-user-images.githubusercontent.com/100944467/308006862-0e5aee4d-be79-4f65-9fa0-1d80c9d524ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5OTg0NzMsIm5iZiI6MTcwODk5ODE3MywicGF0aCI6Ii8xMDA5NDQ0NjcvMzA4MDA2ODYyLTBlNWFlZTRkLWJlNzktNGY2NS05ZmEwLTFkODBjOWQ1MjRmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QwMTQyNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZWFiODNmMGQ3ZDI0NzJmNjUxNTZlZGU5MDI5Yjc1MjM2YWYxMTBlZDIwYjM5OGY4MDE0NGU5ZTdlZWUxZGYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qQGfaQX-NsZSKQUOjN1W0sHJLGscDL7xHIN1hAF_3j4' width = '50px'> EZpill 
 ---
-### EZpill은 영양제를 사용자에 맞게 조합하고, 약국에서 주는 약봉지 처럼 소분합니다.
-### 또한 사용자가 쉽게 영양제를 섭취할 수 있도록 정기배송 해주는 서비스입니다.
-### 타겟층을 좁히기 위해 임산부에 맞게 설계되었으며, 추후에 모든사람을 고려하여 개발될 예정입니다.
+### EZpill은 영양제를 사용자에 맞게 조합하고, 약국에서 주는 약봉지처럼 소분합니다.
+### 또한 사용자가 쉽게 영양제를 섭취할 수 있도록 정기배송해 주는 서비스입니다.
+### 타깃층을 좁히기 위해 임산부에 맞게 설계되었으며, 추후에 모든 사람을 고려하여 개발될 예정입니다.
 
 🔗 Link
 - EZpill.apk 👉🏻 https://drive.google.com/file/d/15kgZZmHJlFffYjFFtgmqhTuqsAx9Pu8e/view?usp=sharing
@@ -40,12 +40,12 @@
   🖇️[관련기사](https://m.medicaltimes.com/News/NewsView.html?ID=43830)
 - 임산부의 부족한 영양 섭취<br>
   🖇️[관련기사](https://mobile.newsis.com/view.html?ar_id=NISX20170118_0014648382)
-- 영양제 하나하나 챙겨먹기 귀찮은 우리 젊은 팀원들..<br>
+- 영양제 하나하나 챙겨 먹기 귀찮은 우리 젊은 팀원들..<br>
 
   <br>
 
 ### 🙋🏼 잠재 유저 인터뷰
- 영양제에 관심이 있는 사람 중 영양제를 복용중인 인원 6명, 복용중이지 않은 인원 4명을 대상으로 정성조사를 진행했습니다.
+영양제에 관심이 있는 사람 중 영양제를 복용 중인 인원 6명, 복용 중이지 않은 인원 4명을 대상으로 정성조사를 진행했습니다.
 <details>
 
 <summary> 복용중인 인원 </summary>
@@ -82,7 +82,7 @@
   ### 질문 리스트
 1. 안 먹는 이유
 
-2. 영양제에 대한 정보가 충분 하신 가요?
+2. 영양제에 대한 정보가 충분하신 가요?
 
 3. 평소에 건강관리를 하는지?
 
@@ -95,8 +95,8 @@
 7. 준비하고 있는 서비스가 출시가 된다면 사용할 의향이 있으신 가요?
 
 ### 답변 요약
-1. 영양제 종류가 너무 많아서 손댈 엄두가 안나요
-   
+1. 영양제 종류가 너무 많아서 손댈 엄두가 안 나요
+
 2. 믿을만한 제품인지 의심돼요
 
 3. 가격만 괜찮으면 한 번 써보고 싶어요
@@ -146,7 +146,7 @@
  사용자의 설문을 기반으로 영양제 추천 알고리즘을 통해 맞춤 영양제 조합을 제공합니다.
  조합과 함께 얼만큼의 영양성분을 섭취할 수 있게 되는지와, 정기 배송의 기간에 대한 선택지를 제공합니다.
 
-### 2. 서브 기능 ( AI 챗봇 고민상담 )
+### 2. 서브 기능 ( AI 챗봇 고민 상담 )
   (gif 만들어서 넣을 자리) <br>
   랭체인(LangChain) 기술을 활용하여 논문을 다수 학습시킨 AI가 사용자의 질문에 답변합니다.
   답변에서 추천하는 영양제에 대한 카테고리 바로가기를 제공합니다.
