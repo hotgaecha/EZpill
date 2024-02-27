@@ -23,6 +23,7 @@
 
 ## 1. 서비스 소개
 
+
 ### 💡 기획 배경
 
 
@@ -105,6 +106,15 @@
 ---
 ## 2. 목적 및 필요성
 ### 🎯 기존 서비스에 대한 분석
+<img src= 'https://private-user-images.githubusercontent.com/100944467/308040245-0bd71d76-15f5-4690-a073-f2aa6fb01f1a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMDk1NzEsIm5iZiI6MTcwOTAwOTI3MSwicGF0aCI6Ii8xMDA5NDQ0NjcvMzA4MDQwMjQ1LTBiZDcxZDc2LTE1ZjUtNDY5MC1hMDczLWYyYWE2ZmIwMWYxYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QwNDQ3NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MGQ2NGNjM2ZhMjE3ZWQ2NzQ5NDE3MzQ3YjY4ODAyMTY4ZTZiYTYzZDAzZmVlMGNhNDg0M2MyNWNhNjEzNTJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SZlT0ejIGlOp5A_fEx7-PExYUhsnhv9MUNmCcPp5dIQ'>
+
+
+우리 프로젝트는 위 3가지 기존 서비스에서 단점을 보완하고 장점만을 흡수한 아키텍처를 고안했습니다.
+
+
+### 🔑 주요 키워드
+
+
 
 
 
