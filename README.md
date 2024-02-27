@@ -1,5 +1,5 @@
 # <img src = 'https://private-user-images.githubusercontent.com/100944467/308006862-0e5aee4d-be79-4f65-9fa0-1d80c9d524ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5OTg0NzMsIm5iZiI6MTcwODk5ODE3MywicGF0aCI6Ii8xMDA5NDQ0NjcvMzA4MDA2ODYyLTBlNWFlZTRkLWJlNzktNGY2NS05ZmEwLTFkODBjOWQ1MjRmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QwMTQyNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZWFiODNmMGQ3ZDI0NzJmNjUxNTZlZGU5MDI5Yjc1MjM2YWYxMTBlZDIwYjM5OGY4MDE0NGU5ZTdlZWUxZGYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qQGfaQX-NsZSKQUOjN1W0sHJLGscDL7xHIN1hAF_3j4' width = '50px'> EZpill 
----
+
 ### EZpill은 영양제를 사용자에 맞게 조합하고, 약국에서 주는 약봉지처럼 소분합니다.
 ### 또한 사용자가 쉽게 영양제를 섭취할 수 있도록 정기배송해 주는 서비스입니다.
 ### 타깃층을 좁히기 위해 임산부에 맞게 설계되었으며, 추후에 모든 사람을 고려하여 개발될 예정입니다.
@@ -9,7 +9,7 @@
   (서버는 TABA에서 대여 후 반납했기 때문에 일부 기능 사용 불가합니다.)
 - 간단한 시연 영상 👉🏻 https://youtu.be/0BropSjA5XM?si=loT6W1mMBZjElhI8
 
----
+<br>
 
 ## TEAM
 
