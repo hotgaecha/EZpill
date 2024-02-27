@@ -6,7 +6,7 @@
 
 🔗 Link
 - EZpill.apk 👉🏻 https://drive.google.com/file/d/15kgZZmHJlFffYjFFtgmqhTuqsAx9Pu8e/view?usp=sharing
-  (서버는 TABA에서 대여 후 반납했기 때문에 일부 기능 사용불가합니다.)
+  (서버는 TABA에서 대여 후 반납했기 때문에 일부 기능 사용 불가합니다.)
 - 간단한 시연 영상 👉🏻 https://youtu.be/0BropSjA5XM?si=loT6W1mMBZjElhI8
 
 ---
@@ -42,7 +42,7 @@
 
   <br>
 
-   ### 🙋🏼 잠재 유저 인터뷰
+### 🙋🏼 잠재 유저 인터뷰
  영양제에 관심이 있는 사람 중 영양제를 복용중인 인원 6명, 복용중이지 않은 인원 4명을 대상으로 정성조사를 진행했습니다.
 <details>
 
@@ -103,7 +103,10 @@
 
 
 ---
-### 🎯 목적 및 필요성
+## 2. 목적 및 필요성
+### 🎯 기존 서비스에 대한 분석
+
+
 
 
 ## 개발환경
