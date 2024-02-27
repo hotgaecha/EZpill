@@ -22,7 +22,7 @@
 | 김보명 | 백엔드,크롤링 |
 
 ## 1. 서비스 소개
-
+<img src = 'https://private-user-images.githubusercontent.com/100944467/308053841-d5cc561a-d6ae-40a3-8107-cfda832110de.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMTQyNjUsIm5iZiI6MTcwOTAxMzk2NSwicGF0aCI6Ii8xMDA5NDQ0NjcvMzA4MDUzODQxLWQ1Y2M1NjFhLWQ2YWUtNDBhMy04MTA3LWNmZGE4MzIxMTBkZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QwNjA2MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YTkzZWJjNmJjNTUyODhkYjkyYTVjMDRlZjZjNzgyOGUzOWQ5YzFmZDhmMmE4MzJmN2M4YmY1ZTJiZDQwMDAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3KGLHbXOKYeXHhNhGlur3xKp6TMd5nD_oTrf1ox5nbE'>
 
 ### 💡 기획 배경
 
@@ -40,6 +40,7 @@
   🖇️[관련기사](https://m.medicaltimes.com/News/NewsView.html?ID=43830)
 - 임산부의 부족한 영양 섭취<br>
   🖇️[관련기사](https://mobile.newsis.com/view.html?ar_id=NISX20170118_0014648382)
+- 영양제 하나하나 챙겨먹기 귀찮은 우리 젊은 팀원들..<br>
 
   <br>
 
@@ -111,15 +112,54 @@
 
 우리 프로젝트는 위 3가지 기존 서비스에서 단점을 보완하고 장점만을 흡수한 아키텍처를 고안했습니다.
 
+<br>
 
 ### 🔑 주요 키워드
 
+<br>
+
+###   1. 가격
+<img src = 'https://private-user-images.githubusercontent.com/100944467/308055017-5603f185-2b4c-4f53-80b3-f80bd6dff0f2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMTQyMjksIm5iZiI6MTcwOTAxMzkyOSwicGF0aCI6Ii8xMDA5NDQ0NjcvMzA4MDU1MDE3LTU2MDNmMTg1LTJiNGMtNGY1My04MGIzLWY4MGJkNmRmZjBmMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QwNjA1MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZTM2NTI3MjAyYTFlYWFhM2E3YzNmZDk3MjRmM2MzZGEzNDUxZGRjMDMzYTcwMzZhNGU3NzA0OTQzNDM0Y2I3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.5Nn9ZC8t1BZk6oQKS5Y1v2KuHJTcvNbwFljCd7SG-QE'>
+
+러프하게 계산했을 때 경쟁사 대비 가격적인 우위를 가져갈 수 있을 것으로 예상됩니다.
+영양성분 함량에서 대부분 경쟁사 보다 높은 함량을 제공하며, 과다 섭취 시 부작용이 있는 영양성분의 경우 제한적으로 제공합니다.
+사용자의 편의를 위해 한 봉지에 모든 영양제를 소분할 것인지, 아침/점심/저녁 따로 소분할 것인지 선택지 제공합니다.
+<br>
 
 
+###   2. 리뷰
+<img src = 'https://private-user-images.githubusercontent.com/100944467/308055148-b6876b0f-6928-4a54-85fb-64874249a9d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMTQyMTYsIm5iZiI6MTcwOTAxMzkxNiwicGF0aCI6Ii8xMDA5NDQ0NjcvMzA4MDU1MTQ4LWI2ODc2YjBmLTY5MjgtNGE1NC04NWZiLTY0ODc0MjQ5YTlkMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QwNjA1MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZGE2YzAyMGMxYTZjNzdlMzg3Yzk3YWZiZmY5NWQyOTYyODM1MzVhYjBiZjRlYjM4M2U4OWUzNzZkM2UyNDgyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.G-_y_05S_rfc8pBX8p5N3Wn8vD3Z815T8fNTykEVsfs'>
+
+자체 개발한 영양제를 사용하여 리뷰가 거의 없고 효과를 입증할 수 없는 경쟁사와 달리,<br>
+세계적으로 인지도가 있는 '아이허브'에 등록되어 있는 물건을 소분 배송하며, 그에 따라 수많은 리뷰가 신뢰성을 높입니다.
 
 
+## 3. 서비스 기능
 
-## 개발환경
+---
+
+
+<img src= 'https://private-user-images.githubusercontent.com/100944467/308054382-199da052-fbc2-4afb-9335-aaeffb767023.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMTQyNDEsIm5iZiI6MTcwOTAxMzk0MSwicGF0aCI6Ii8xMDA5NDQ0NjcvMzA4MDU0MzgyLTE5OWRhMDUyLWZiYzItNGFmYi05MzM1LWFhZWZmYjc2NzAyMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyN1QwNjA1NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzFjMzU5ZWJjYWFkN2MyNjBkYTkzMzc2YjkwNDMzYjllZDIzNzNlMTBmMGFjNGE4ODA0ZmFlOGNkZGY5MDI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qr2PKeh4JZhRKStZz1XNnjNskLLyArAEBhLxw-4KLI8'>
+
+### 1. 메인 기능 ( 영양제 조합 추천 )
+ ( gif 만들어서 넣을 자리) <br>
+ 사용자의 설문을 기반으로 영양제 추천 알고리즘을 통해 맞춤 영양제 조합을 제공합니다.
+ 조합과 함께 얼만큼의 영양성분을 섭취할 수 있게 되는지와, 정기 배송의 기간에 대한 선택지를 제공합니다.
+
+### 2. 서브 기능 ( AI 챗봇 고민상담 )
+  (gif 만들어서 넣을 자리) <br>
+  랭체인(LangChain) 기술을 활용하여 논문을 다수 학습시킨 AI가 사용자의 질문에 답변합니다.
+  답변에서 추천하는 영양제에 대한 카테고리 바로가기를 제공합니다.
+
+### 3. 부가 기능 ( 주변 제휴 약국 찾기 )
+  (gif 만들어서 넣을 자리)
+  구현 예정으로, 약국과 제휴하여 약사에게 고객에 대한 정보, 설문 리스트, 추천 영양제 조합을 제공하며 수수료를 받는 수익 모델입니다.
+  인터넷으로 영양제를 구매하는데 거부감이 있는 유저를 위한 부가 기능입니다.
+
+___
+
+
+## 4. 개발환경
 
 -   Server,Back
     -   AWS(EC2,Lambda)
@@ -129,3 +169,8 @@
     -   Flutter
 -   DB
     -   AWS RDS(Mysql)
+ 
+## 5. 프로젝트 설계
+
+### 아키텍쳐
+
