@@ -159,18 +159,59 @@
 ___
 
 
-## 4. 개발환경
+## 4. 기술 스택
 
--   Server,Back
-    -   AWS(EC2,Lambda)
--   FrameWork
-    -   Django
+-   Server
+    -   `AWS(EC2,Lambda)`
+-   Back
+    -   `Django`,`python`
 -   Front
-    -   Flutter
+    -   `Flutter`
 -   DB
-    -   AWS RDS(Mysql)
+    -   `AWS RDS(Mysql)`
  
 ## 5. 프로젝트 설계
 
-### 아키텍쳐
 
+<details>
+  <summary> Server </summary> 
+  
+  ### 설명
+      설명
+</details>
+
+
+<details>
+  <summary> Back </summary> 
+  
+  ### 크롤링
+      모든 제품은 아이허브에 등록된 제품으로 제품에 대한 정보를 주기적으로 크롤링하여 상품에 반영합니다.
+      크롤링은 파이썬의 '셀리니움' 라이브러리를 사용합니다.
+</details>
+
+<details>
+  <summary> Front </summary> 
+  
+  ### 설명
+      설명
+</details>
+
+<details>
+  <summary> DB </summary> 
+  
+  ### 설명
+      설명
+</details>
+
+<br>
+
+
+### 아키텍쳐
+<img width="1002" alt="image" src="https://github.com/hotgaecha/EZpill/assets/100944467/50b27381-64da-4f1a-98e3-84d1bcff7681">
+
+<br>
+
+
+
+### 유저 플로우
+<img width="948" alt="image" src="https://github.com/hotgaecha/EZpill/assets/100944467/2c190ae9-d3a6-4339-992e-cdf69d05aed4">
